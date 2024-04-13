@@ -1,4 +1,4 @@
-df = pd.read_csv("7Week_ML_Part1/salary_prediction/Hitters.csv")
+df = pd.read_csv("Hitters.csv")
 
 def check_df(dataframe, head=5):
     print("##################### Shape #####################")
